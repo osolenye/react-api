@@ -1,0 +1,21 @@
+.image_wrapper {
+  text-align: center;
+}
+
+.hero {
+  margin-top: 26px;
+}
+
+.header {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 36px;
+  margin-left: 36px;
+}
+
+.hero_text {
+  margin-left: 36px;
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 16px;
+}
